@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:00D9FF,100:0A0E27&height=220&section=header&text=W.I.N.T.E.R.&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Wisdom-driven+Intelligence,+Neural+Tech,+Execution+%26+Reasoning&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:00D9FF,100:0A0E27&height=220&section=header&text=W.I.N.T.E.R.&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Wisdom-driven+Intelligence,+Neural+Tech,+Execution+and+Reasoning&descAlignY=55&descSize=16" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rifqi+%E2%9D%84%EF%B8%8F;Student+%7C+Builder+of+Ideas;AI+%2B+IoT+Enthusiast;Vibe-Coding+my+way+into+Software+Engineering;Building+W.I.N.T.E.R.+-+my+own+AI+OS" alt="Typing SVG" />
 
