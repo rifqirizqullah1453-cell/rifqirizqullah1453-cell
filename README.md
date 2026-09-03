@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=17&pause=1200&color=FFFFFF&center=true&vCenter=true&width=620&lines=Local-first+AI+agent+OS%2C+built+on+my+own+hardware;FastAPI+%2B+pgvector+%2B+Ollama%2C+no+cloud+lock-in;Electrical+Engineering+student+in+T%C3%BCrkiye;Vibe-coding+into+real+software+engineering" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=16&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Local-first+AI+agent+OS%2C+on+my+own+hardware;FastAPI+%2B+pgvector+%2B+Ollama%2C+no+cloud+lock-in;Electrical+Engineering+student+in+T%C3%BCrkiye;Vibe-coding+into+real+software+engineering" alt="" />
 
 <br/><br/>
 
@@ -19,10 +19,6 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ### About
 
 I'm **Rifqi Rizqullah** — Electrical & Electronics Engineering student at Bartın University, Türkiye, originally from Bandung, Indonesia.
@@ -33,19 +29,16 @@ Ex robotics extracurricular teacher, so hardware still pulls at me. I ship first
 
 ```text
 focus     autonomous agents, local inference, memory
-building  W.I.N.T.E.R. — 6 agent roles, risk-gated tools
+building  W.I.N.T.E.R. — 6 agent roles
 studying  Electrical & Electronics Engineering
 based in  Bartın, Türkiye
 ```
 
-</td>
-<td width="45%" valign="top">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/about.svg" width="100%" alt="W.I.N.T.E.R. core" />
+<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/about.svg" width="440" alt="W.I.N.T.E.R. core" />
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -81,13 +74,13 @@ based in  Bartın, Türkiye
 
 ### Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| **W.I.N.T.E.R.** | Local-first autonomous AI agent OS — 6 agent roles, vector memory, risk-gated tools | Python · FastAPI · pgvector · Ollama |
-| [sanama-coffee](https://github.com/rifqirizqullah1453-cell/sanama-coffee) | Coffee brand web project | Web |
-| [kozi-coffee](https://github.com/rifqirizqullah1453-cell/kozi-coffee) | Coffee brand web project | Web |
-| [personal-portfolio](https://github.com/rifqirizqullah1453-cell/personal-portfolio) | Personal portfolio site | Web |
-| [boh-hizmet](https://github.com/rifqirizqullah1453-cell/boh-hizmet) | Web project | Web |
+| Project | What it is |
+|---|---|
+| **W.I.N.T.E.R.** | Local-first autonomous AI agent OS — 6 agent roles, vector memory, risk-gated tools |
+| [sanama-coffee](https://github.com/rifqirizqullah1453-cell/sanama-coffee) | Coffee brand web project |
+| [kozi-coffee](https://github.com/rifqirizqullah1453-cell/kozi-coffee) | Coffee brand web project |
+| [personal-portfolio](https://github.com/rifqirizqullah1453-cell/personal-portfolio) | Personal portfolio site |
+| [boh-hizmet](https://github.com/rifqirizqullah1453-cell/boh-hizmet) | Web project |
 
 <br/>
 
