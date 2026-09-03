@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/scene.svg?v=1" width="100%" alt="Pixel art night city with falling snow and a lit desk — Rifqi Rizqullah, AI systems builder" />
+<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/scene.svg?v=2" width="100%" alt="Pixel art night city seen through a window, snow falling, a train passing, and a lit desk — Rifqi Rizqullah, AI systems builder" />
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=15&pause=1400&color=B4B4B4&center=true&vCenter=true&width=620&height=40&lines=Local-first+AI+agent+OS%2C+running+on+my+own+hardware;FastAPI+%2B+pgvector+%2B+Ollama%2C+no+cloud+lock-in;Electrical+Engineering+student+in+T%C3%BCrkiye" alt="" />
 
