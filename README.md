@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/hero.svg?v=6" width="100%" alt="Rifqi Rizqullah — AI systems builder" />
+<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/hero.svg?v=7" width="100%" alt="Rifqi Rizqullah — AI systems builder, local-first agent OS, Bartın Türkiye" />
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=15&pause=1400&color=B4B4B4&center=true&vCenter=true&width=620&height=40&lines=Local-first+AI+agent+OS%2C+running+on+my+own+hardware;FastAPI+%2B+pgvector+%2B+Ollama%2C+no+cloud+lock-in;Electrical+Engineering+student+in+T%C3%BCrkiye" alt="" />
 
@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/USERNAME)
 -->
 
-<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/stack.svg?v=6" width="100%" alt="Stack: Python, FastAPI, PostgreSQL, pgvector, Ollama, Redis, Docker" />
+<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/stack.svg?v=7" width="100%" alt="Stack: Python, FastAPI, PostgreSQL, pgvector, Ollama, Redis, Docker" />
 
 </div>
 
@@ -21,7 +21,11 @@ I'm **Rifqi Rizqullah** — Electrical & Electronics Engineering student at Bart
 
 Right now I'm building **W.I.N.T.E.R.**, an autonomous AI agent OS that runs on my own machines. Cloud is the fallback, never the default.
 
-<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/about.svg?v=6" width="100%" alt="W.I.N.T.E.R. system spec: FastAPI runtime, pgvector memory, Ollama models, 6 agents, risk-gated tools" />
+<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/about.svg?v=7" width="100%" alt="W.I.N.T.E.R. system spec: FastAPI runtime, pgvector memory, Ollama models, 6 agents, risk-gated tools" />
+
+<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/arch.svg?v=7" width="100%" alt="W.I.N.T.E.R. architecture: Discord bridge and CLI feed the FastAPI core; the model router serves Ollama local models, pgvector memory, Redis and n8n, with cloud as fallback" />
+
+<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/now.svg?v=7" width="100%" alt="Currently: migrating W.I.N.T.E.R. to Apple Silicon, splitting the stack across two machines, tuning local models, shipping small web products" />
 
 <br/>
 
