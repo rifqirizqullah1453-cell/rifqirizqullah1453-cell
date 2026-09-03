@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/hero.svg" width="100%" alt="Rifqi Rizqullah — AI systems builder" />
+<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/hero.svg?v=3" width="100%" alt="Rifqi Rizqullah — AI systems builder" />
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=15&pause=1400&color=B4B4B4&center=true&vCenter=true&width=620&height=40&lines=Local-first+AI+agent+OS%2C+running+on+my+own+hardware;FastAPI+%2B+pgvector+%2B+Ollama%2C+no+cloud+lock-in;Electrical+Engineering+student+in+T%C3%BCrkiye" alt="" />
 
@@ -11,6 +11,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/USERNAME)
 -->
 
+<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/stack.svg?v=3" width="100%" alt="Stack: Python, FastAPI, PostgreSQL, pgvector, Ollama, Redis, Docker" />
+
 </div>
 
 <br/>
@@ -19,9 +21,7 @@ I'm **Rifqi Rizqullah** — Electrical & Electronics Engineering student at Bart
 
 Right now I'm building **W.I.N.T.E.R.**, an autonomous AI agent OS that runs on my own machines. Cloud is the fallback, never the default.
 
-<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/about.svg" width="100%" alt="W.I.N.T.E.R. system spec" />
-
-<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/stack.svg" width="100%" alt="Stack: Python, FastAPI, PostgreSQL, pgvector, Redis, Docker, Ollama, TypeScript, React, Git, Linux, macOS, Arduino, n8n" />
+<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/about.svg?v=3" width="100%" alt="W.I.N.T.E.R. system spec: FastAPI runtime, pgvector memory, Ollama models, 6 agents, risk-gated tools" />
 
 <br/>
 
