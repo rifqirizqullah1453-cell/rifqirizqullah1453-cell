@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/USERNAME)
 -->
 
-<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/stack.svg?v=8" width="100%" alt="Stack: Python, FastAPI, PostgreSQL, pgvector, Ollama, Redis, Docker" />
+<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/stack.svg?v=13" width="100%" alt="Stack: Python, FastAPI, PostgreSQL, pgvector, Ollama, Redis, Docker" />
 
 </div>
 
@@ -21,11 +21,11 @@ I'm **Rifqi Rizqullah** — Electrical & Electronics Engineering student at Bart
 
 Right now I'm building **W.I.N.T.E.R.**, an autonomous AI agent OS that runs on my own machines. Cloud is the fallback, never the default.
 
-<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/about.svg?v=12" width="100%" alt="W.I.N.T.E.R. system spec: FastAPI runtime, pgvector memory, Ollama models, six agent roles, risk-gated tools" />
+<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/about.svg?v=13" width="100%" alt="W.I.N.T.E.R. system spec: FastAPI runtime, pgvector memory, Ollama models, six agent roles, risk-gated tools" />
 
-<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/arch.svg?v=8" width="100%" alt="W.I.N.T.E.R. architecture: Discord bridge and CLI feed the FastAPI core; the model router serves Ollama local models, pgvector memory, Redis and n8n, with cloud as fallback" />
+<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/arch.svg?v=13" width="100%" alt="W.I.N.T.E.R. architecture: Discord bridge and CLI feed the FastAPI core; the model router serves Ollama local models, pgvector memory, Redis and n8n, with cloud as fallback" />
 
-<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/now.svg?v=8" width="100%" alt="Currently: migrating W.I.N.T.E.R. to Apple Silicon, splitting the stack across two machines, tuning local models, shipping small web products" />
+<img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/now.svg?v=13" width="100%" alt="Currently: migrating W.I.N.T.E.R. to Apple Silicon, splitting the stack across two machines, tuning local models, shipping small web products" />
 
 <br/>
 
