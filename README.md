@@ -31,13 +31,17 @@ Right now I'm building **W.I.N.T.E.R.**, an autonomous AI agent OS that runs on 
 
 ### Projects
 
-| Project | What it is |
-|---|---|
-| **W.I.N.T.E.R.** | Local-first autonomous AI agent OS — 6 agent roles, vector memory, risk-gated tools |
-| [sanama-coffee](https://github.com/rifqirizqullah1453-cell/sanama-coffee) | Coffee brand web project |
-| [kozi-coffee](https://github.com/rifqirizqullah1453-cell/kozi-coffee) | Coffee brand web project |
-| [personal-portfolio](https://github.com/rifqirizqullah1453-cell/personal-portfolio) | Personal portfolio site |
-| [boh-hizmet](https://github.com/rifqirizqullah1453-cell/boh-hizmet) | Web project |
+<img src="assets/projects.svg?v=1" alt="Projects" width="100%" />
+
+<div align="center">
+
+[![W.I.N.T.E.R.](https://img.shields.io/badge/W.I.N.T.E.R.-private-0d1219?style=flat-square&labelColor=050609)](https://github.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell)
+[![sanama-coffee](https://img.shields.io/badge/sanama--coffee-repo-0d1219?style=flat-square&labelColor=050609)](https://github.com/rifqirizqullah1453-cell/sanama-coffee)
+[![kozi-coffee](https://img.shields.io/badge/kozi--coffee-repo-0d1219?style=flat-square&labelColor=050609)](https://github.com/rifqirizqullah1453-cell/kozi-coffee)
+[![personal-portfolio](https://img.shields.io/badge/personal--portfolio-repo-0d1219?style=flat-square&labelColor=050609)](https://github.com/rifqirizqullah1453-cell/personal-portfolio)
+[![boh-hizmet](https://img.shields.io/badge/boh--hizmet-repo-0d1219?style=flat-square&labelColor=050609)](https://github.com/rifqirizqullah1453-cell/boh-hizmet)
+
+</div>
 
 <br/>
 
@@ -45,13 +49,13 @@ Right now I'm building **W.I.N.T.E.R.**, an autonomous AI agent OS that runs on 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rifqirizqullah1453-cell&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=9E9E9E&hide_title=true" />
-<img height="160" src="https://streak-stats.demolab.com?user=rifqirizqullah1453-cell&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=9E9E9E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6F6F6F" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rifqirizqullah1453-cell&show_icons=true&hide_title=true&bg_color=050609&border_color=1b222a&title_color=e8ecf0&icon_color=f2f5f8&text_color=8b939b" />
+<img height="170" src="https://streak-stats.demolab.com?user=rifqirizqullah1453-cell&background=050609&border=1b222a&stroke=1b222a&ring=e8ecf0&fire=e8ecf0&currStreakNum=f2f5f8&sideNums=e8ecf0&currStreakLabel=8b939b&sideLabels=6b737b&dates=5b636b" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqirizqullah1453-cell&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=9E9E9E" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqirizqullah1453-cell&layout=compact&bg_color=050609&border_color=1b222a&title_color=e8ecf0&text_color=8b939b" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rifqirizqullah1453-cell&color=000000&style=flat-square&label=profile+views" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=rifqirizqullah1453-cell&color=050609&style=flat-square&label=profile+views" alt="profile views" />
 
 </div>
