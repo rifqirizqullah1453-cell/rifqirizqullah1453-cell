@@ -6,10 +6,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white&labelColor=000000)](https://github.com/rifqirizqullah1453-cell)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=000000)](mailto:rifqirizqullah1453@gmail.com)
-<!-- Isi username kamu, lalu hapus tanda comment:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/USERNAME)
--->
 
 <img src="https://raw.githubusercontent.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell/main/assets/stack.svg?v=13" width="100%" alt="Stack: Python, FastAPI, PostgreSQL, pgvector, Ollama, Redis, Docker" />
 
@@ -35,7 +31,7 @@ Right now I'm building **W.I.N.T.E.R.**, an autonomous AI agent OS that runs on 
 
 <div align="center">
 
-[![W.I.N.T.E.R.](https://img.shields.io/badge/W.I.N.T.E.R.-private-0d1219?style=flat-square&labelColor=050609)](https://github.com/rifqirizqullah1453-cell/rifqirizqullah1453-cell)
+[![WINTER](https://img.shields.io/badge/WINTER-repo-0d1219?style=flat-square&labelColor=050609)](https://github.com/rifqirizqullah1453-cell/winter)
 [![sanama-coffee](https://img.shields.io/badge/sanama--coffee-repo-0d1219?style=flat-square&labelColor=050609)](https://github.com/rifqirizqullah1453-cell/sanama-coffee)
 [![kozi-coffee](https://img.shields.io/badge/kozi--coffee-repo-0d1219?style=flat-square&labelColor=050609)](https://github.com/rifqirizqullah1453-cell/kozi-coffee)
 [![personal-portfolio](https://img.shields.io/badge/personal--portfolio-repo-0d1219?style=flat-square&labelColor=050609)](https://github.com/rifqirizqullah1453-cell/personal-portfolio)
